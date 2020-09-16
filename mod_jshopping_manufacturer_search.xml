@@ -10,9 +10,10 @@
 	<version>1.1</version>
 	<description><![CDATA[Developed & Powered by <a href="http://nevigen.com/" target="_blank">Nevigen.com</a>]]></description>
 	<files>
-		<filename module="mod_jshopping_manufacturer_search">mod_jshopping_manufacturer_search.php</filename>
 		<folder>assets</folder>
+		<folder>Helpers</folder>
 		<folder>tmpl</folder>
+		<filename module="mod_jshopping_manufacturer_search">mod_jshopping_manufacturer_search.php</filename>
 	</files>
 
 	<updateservers>
